@@ -90,7 +90,7 @@ PurpleHack2025/
 
 ---
 
-## 9. Roadmap
+## 7. Roadmap
 
 * [ ] GPU‑parallel GA → 90 × ускорение.
 * [ ] Gemma 7B MoE без потери latency.
@@ -100,6 +100,6 @@ PR‑ы и issue‑запросы приветствуются!
 
 ---
 
-## 10. Лицензия
+## 8. Лицензия
 
 [MIT](LICENSE) © 2025 «Мы МИСИС 177!!!»
